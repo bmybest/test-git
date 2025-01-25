@@ -6,3 +6,5 @@ if 1==1:
     print("aaaa")
 
 print("yes")
+print("yes")
+print("yes")
